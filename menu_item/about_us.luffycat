@@ -1,0 +1,36 @@
+<article class="page type-page status-publish has-post-thumbnail hentry">
+	<header class="profile-header">
+		<div class="profile-details" style="background-image: url('./images/background/profile_background_1.jpg')">
+			<figure class="profile-image">
+					<img src="./images/background/profile_1.jpg" alt="Profile Image">
+			</figure>
+			<div class="profile-info">
+				<h1 class="profile-name">Luffy</h1>
+				<h2 class="profile-job-title">爱画画的UI工程师</h2>
+			</div>
+		</div>
+	
+		<section class="profile-lead">
+			<p style="text-align: center;"><em>爱画画的UI工程师，画入豪肠，七分酿成了月光，三分啸成才气，绣口一吐半个盛唐。</em></p>
+			<p style="text-align: center;">hello@luffycat.com</p>
+		</section>
+	</header>
+</article>
+<article id="post-13" class="post-13 page type-page status-publish has-post-thumbnail hentry">
+	<header class="profile-header">
+		<div class="profile-details" style="background-image: url('./images/background/profile_background_2.jpg')">
+			<figure class="profile-image">
+					<img src="./images/background/profile_2.jpg" alt="Profile Image">
+			</figure>
+			<div class="profile-info">
+				<h1 class="profile-name">FatCat</h1>
+				<h2 class="profile-job-title">活泼技术吃货宅</h2>
+			</div>
+		</div>
+	
+		<section class="profile-lead">
+			<p style="text-align: center;"><em>我确信部分卖鱼蛋从业员比坐在写字楼房间里的高级白领幸福感强。</em></p>
+			<p style="text-align: center;">hello@luffycat.com</p>
+		</section>
+	</header>
+</article>
