@@ -1,3 +1,11 @@
-<video src="./video/20140520.m4v" controls="controls" style="width:100%;">
+<header class="entry-header">
+	<div class="entry-meta">
+		<span class="posted-on">
+		<time class="entry-date published" datetime="2014-05-20">
+		<a href="#" rel="bookmark">5月20, 2014</a>
+		</time><timed class="updated" datetime="2014-05-20">May 20, 2014</timed></span>
+	</div>
+</header>
+<video src="./video/20140520.mp4" controls="controls" style="width:100%;">
 your browser does not support the video tag
 </video>

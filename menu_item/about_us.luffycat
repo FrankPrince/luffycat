@@ -5,7 +5,7 @@
 					<img src="./images/background/profile_1.jpg" alt="Profile Image">
 			</figure>
 			<div class="profile-info">
-				<h1 class="profile-name">Frank</h1>
+				<h1 class="profile-name">Luffy</h1>
 				<h2 class="profile-job-title">幽默单纯大暖男</h2>
 			</div>
 		</div>
@@ -22,7 +22,7 @@
 					<img src="./images/background/profile_2.jpg" alt="Profile Image">
 			</figure>
 			<div class="profile-info">
-				<h1 class="profile-name">Aaron</h1>
+				<h1 class="profile-name">Fatcat</h1>
 				<h2 class="profile-job-title">活泼技术吃货宅</h2>
 			</div>
 		</div>
