@@ -1,14 +1,11 @@
 <article class="page type-page status-publish has-post-thumbnail hentry">
-	<header class="profile-header">
-		<div class="profile-details" style="min-height:589px;background-image: url('./images/background/draw.jpg')" id="div_profile_details">
-			<img id="img1" src="./images/main/20140520.jpg" class="img_date" />
-			<img id="img2" src="./images/thumb/20140520.jpg" class="img_date" />
-			<img id="img3" src="./images/thumb/white.jpg" class="img_date" />
-			<img id="img4" src="./images/thumb/white.jpg" class="img_date" />
-			<img id="img5" src="./images/thumb/white.jpg" class="img_date" />
-			<img id="img6" src="./images/thumb/white.jpg" class="img_date" />
-		</div>
-	</header>
+	<img id="div_profile_details" src="./images/background/draw.jpg" style="width:1400px;"  />
+	<img id="img1" src="./images/main/20140522.jpg" class="img_date" />
+	<img id="img2" src="./images/thumb/20140522.jpg" class="img_date" />
+	<img id="img3" src="./images/thumb/20140520.jpg" class="img_date" />
+	<img id="img4" src="./images/thumb/white.jpg" class="img_date" />
+	<img id="img5" src="./images/thumb/white.jpg" class="img_date" />
+	<img id="img6" src="./images/thumb/white.jpg" class="img_date" />
 </article>
 <style>
 .img_date {
@@ -21,6 +18,7 @@
 </style>
 <script>
 jQuery(function($){
+	
 	$('.img_date').click(function(){
 		if(!(this.src.indexOf('main')>=0)){
 			$('#img1').attr('src',this.src.replace('thumb','main'));
@@ -85,3 +83,4 @@ jQuery(function($){
 	}
 });
 </script>
+
