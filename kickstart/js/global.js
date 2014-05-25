@@ -30,7 +30,7 @@ $(document).ready(function () {
             'day': 20,
             'month': 5,
             'year': 2014,
-            'hour': 0,
+            'hour': 12,
             'min': 0,
             'sec': 0
         },
