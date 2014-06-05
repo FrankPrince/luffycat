@@ -1,10 +1,10 @@
 <article class='page type-page status-publish has-post-thumbnail hentry'> 
 <img id='div_profile_details' src='./images/background/draw.jpg' style='width:1400px;'/>	
-<img id='img1' src='./images/main/20140602.jpg' class='img_draw' /> 
-<img id='img2' src='./images/thumb/20140602.jpg' class='img_draw' /> 
-<img id='img3' src='./images/thumb/20140529.jpg' class='img_draw' /> 
-<img id='img4' src='./images/thumb/20140526.jpg' class='img_draw' /> 
-<img id='img5' src='./images/thumb/20140522.jpg' class='img_draw' /> 
-<img id='img6' src='./images/thumb/20140520.jpg' class='img_draw' /> 
+<img id='img1' src='./images/main/20140605.jpg' class='img_draw' /> 
+<img id='img2' src='./images/thumb/20140605.jpg' class='img_draw' /> 
+<img id='img3' src='./images/thumb/20140602.jpg' class='img_draw' /> 
+<img id='img4' src='./images/thumb/20140529.jpg' class='img_draw' /> 
+<img id='img5' src='./images/thumb/20140526.jpg' class='img_draw' /> 
+<img id='img6' src='./images/thumb/20140522.jpg' class='img_draw' /> 
 </article> 
 <script type='text/javascript' src='./js/main/draw.js'></script> 
